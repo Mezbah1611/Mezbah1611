@@ -1,7 +1,8 @@
-![ Coder](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-1/316540246_1645778519157748_5196813542737173620_n.jpg?stp=c0.0.730.730a_dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeGtGsOmTNuAR1ARKU6fLkJlrnUtjOqEeEqudS2M6oR4StdtyRobYvIa0-mJZr17BIAl1o-FA1RYD1IqMjx7S_3d&_nc_ohc=UPxwXPxj1PQQ7kNvgHGDYbx&_nc_ht=scontent.fdac24-4.fna&oh=00_AYCnlsIZ_hdHUlVj0ssDmXzg_s2yYHHyY19rJtUm6ZNTOw&oe=66CE0352)
 
 # Hi there 👋, this is Mezbah Uddin Tanim
 ## Coder
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.iz36BMvdF7uKHxbB5a6RgAHaHa?pid=ImgDet&w=185&h=185&c=7&dpr=1.1"
 
  A beginner coder eager to learn and grow in the world of software development. I'm currently exploring programming languages and working on small projects to build my skills. I use GitHub to track my progress, share my work, and collaborate with others. I’m passionate about learning and open to feedback, so feel free to connect or check out my repositories!"
 
