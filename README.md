@@ -1,31 +1,33 @@
 
-# Hi there 👋, this is Mezbah Uddin Tanim
-## Coder
+<h1 align="center">Hi 👋, this iss Mezbah Uddin Tanim</h1>
+<h3 align="center">A passionate Coder from Bangladesh</h3>
 
-<img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/OIP.iz36BMvdF7uKHxbB5a6RgAHaHa?pid=ImgDet&w=185&h=185&c=7&dpr=1.1">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.iz36BMvdF7uKHxbB5a6RgAHaHa?pid=ImgDet&w=185&h=185&c=7&dpr=1.1">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah161&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah161" /> </p>
 
- A beginner coder eager to learn and grow in the world of software development. I'm currently exploring programming languages and working on small projects to build my skills. I use GitHub to track my progress, share my work, and collaborate with others. I’m passionate about learning and open to feedback, so feel free to connect or check out my repositories!"
+<p align="left"> <a href="https://twitter.com/mezbah203" target="blank"><img src="https://img.shields.io/twitter/follow/mezbah203?logo=twitter&style=for-the-badge" alt="mezbah203" /></a> </p>
 
-Skills: Java / Python / C / C++
+- 🔭 I’m currently working on **github**
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Pythone 
-- 👯 I’m looking to collaborate on github 
+- 🌱 I’m currently learning **python**
 
+- 📫 How to reach me **mezbahuddin203@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mezbah1611)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mezbah-uddin-tanim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdtanim.tanim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mezbah_uddin_tanim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mezbah203)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mezbah203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mezbah203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mezbah-udiin-tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezbah-udiin-tanim" height="30" width="40" /></a>
+<a href="https://fb.com/mdtanim.tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtanim.tanim" height="30" width="40" /></a>
+<a href="https://instagram.com/mezbah_uddin_tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mezbah_uddin_tanim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mt tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mt tech" height="30" width="40" /></a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezbah161&show_icons=true&locale=en&layout=compact" alt="mezbah161" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mezbah161&show_icons=true&locale=en" alt="mezbah161" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mezbah1611)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mezbah1611&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mezbah1611/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mezbah1611)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mezbah1611)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezbah161&" alt="mezbah161" /></p>
 
