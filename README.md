@@ -2,7 +2,7 @@
 # Hi there 👋, this is Mezbah Uddin Tanim
 ## Coder
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.iz36BMvdF7uKHxbB5a6RgAHaHa?pid=ImgDet&w=185&h=185&c=7&dpr=1.1"
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.iz36BMvdF7uKHxbB5a6RgAHaHa?pid=ImgDet&w=185&h=185&c=7&dpr=1.1">
 
  A beginner coder eager to learn and grow in the world of software development. I'm currently exploring programming languages and working on small projects to build my skills. I use GitHub to track my progress, share my work, and collaborate with others. I’m passionate about learning and open to feedback, so feel free to connect or check out my repositories!"
 
