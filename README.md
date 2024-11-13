@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this iss Mezbah Uddin Tanim</h1>
 <h3 align="center">A passionate Coder from Bangladesh</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/pranitdeshpande98">
+<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah161&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah161" /> </p>
 
